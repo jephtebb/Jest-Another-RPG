@@ -1,0 +1,22 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jephtebb/Jest-Another-RPG.git"
+  },
+  "author": "Jephte Borno",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jephtebb/Jest-Another-RPG/issues"
+  },
+  "homepage": "https://github.com/jephtebb/Jest-Another-RPG#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
